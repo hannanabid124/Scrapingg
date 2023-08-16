@@ -1,0 +1,21 @@
+{
+  "name": "dior_products_web_and_api_scraping_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "playwright": "^1.37.0"
+  },
+  "devDependencies": {
+    "caxa": "^2.1.0"
+  },
+  "type": "module"
+}
